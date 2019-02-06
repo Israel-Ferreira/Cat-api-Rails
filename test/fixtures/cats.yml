@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cat_breed: MyString
+  weight: 1
+  life_exp: 1
+  country: MyString
+  coat: MyString
+
+two:
+  cat_breed: MyString
+  weight: 1
+  life_exp: 1
+  country: MyString
+  coat: MyString
